@@ -56,4 +56,4 @@ I want to focus on building my css skills, mastering flexbox and grid techniques
 
 To my dearest MOH, Thank you for taking time out of your busy schedule to help.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
